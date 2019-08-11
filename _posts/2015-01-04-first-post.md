@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Jupyter on Apache Spark cluster on AWS EC2
+
 ---
 
-This is my first post, how exciting!
+Notes on setting up Jupyter on AWS ECR and running a linear regression on a 4-node cluster.
