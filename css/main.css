@@ -8,8 +8,10 @@ layout: null
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 18px;
-  color: #404040;
+  /*font-size: 18px;*/
+  font-size: 14px;
+  /*color: #404040;*/
+  color: #9f9f9f;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
